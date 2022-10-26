@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i am Manoj kumar
 
 I'm a person of 18 years who wants to lean coding stuffs and tries to become a full stack developer 
 
